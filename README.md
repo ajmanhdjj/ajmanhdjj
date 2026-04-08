@@ -46,9 +46,10 @@
 
 ### 📫 Me contacter
 
-- **LinkedIn** : [Ajoute ton lien ici]
-- **Twitter / X** : [@ajmanhdjj]
-- **Email** : ton@email.com
+- **LinkedIn** : https://www.linkedin.com/in/ajmanhdj/
+- **Instagram** : @ajmanhdj_
+- **Email** : ajmanhdj@gmail.com
+- **WhatsApp** : +225 01 02 27 19 40
 
 ---
 
