@@ -1,59 +1,70 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF9F&height=280&section=header&text=AJMAN%20HADJIBOUDINE&fontSize=80&animation=fadeIn&fontAlignY=35&fontStyle=bold" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F0F0F&height=280&section=header&text=AJMAN%20HADJIBOUDINE&fontSize=75&animation=fadeIn&fontAlignY=38&textColor=00FF9F" width="100%" />
+  <br />
 
-  <h1>🔥 ELITE FULL-STACK & MOBILE WARRIOR</h1>
+  <h1>⚡ SYSTEM ARCHITECT • FULL-STACK DOMINANCE</h1>
 
-  <p>
-    <strong>Je ne code pas. Je DÉTRUIS les limites.</strong><br>
-    Architecte d’expériences ultra-rapides, scalables et sans pitié.
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=800&lines=OPTIMIZING+THE+UNOPTIMIZABLE;BUILDING+SCALABLE+ECOSYSTEMS;FLUTTER+EXPERT;NESTJS+MASTER;SHIPPING+HIGH-PERFORMANCE+CODE" alt="Typing SVG" />
   </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1800&pause=400&color=00FF9F&center=true&vCenter=true&width=780&lines=Crushing+Performance+Bottlenecks;Architecting+Scalable+Empires;Flutter+%26+Dart+at+120fps;NestJS+%26+Next.js+Dominator;PHP+Framework+Assassin;Shipping+Production-Ready+Weapons" alt="Typing SVG" />
-
 </div>
 
 ---
 
-### ⚔️ MA PHILOSOPHIE DE COMBAT
+### 💀 The Core Directive
 
-- **Philosophie :** Si ce n’est pas **ultra-optimisé, scalable et bulletproof**, ce n’est PAS fini. Clean Architecture ou rien.
-- **Expertise Mobile :** Je forge des applications multiplateformes qui claquent à **120 fps** avec **Flutter & Dart**.
-- **Back-end & Core :** Maître absolu du **PHP**, créateur de frameworks custom taillés pour la guerre.
-- **Objectif Actuel :** Domination totale du stack moderne → **NestJS + Next.js + PostgreSQL**.
+> "Le code médiocre est un bug. La performance est une religion." 
+
+Expert en **Clean Architecture** et en optimisation système. Je transforme des problèmes complexes en infrastructures fluides, scalables et ultra-rapides. Si ce n'est pas optimisé au millième de seconde, ce n'est pas fini.
 
 ---
 
-### 🛠️ ARSENAL DE DESTRUCTION
+### 🛠️ Lethal Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,nestjs,php,postgresql,mysql,javascript,git,docker,linux,postman&perline=6" alt="Tech Stack" />
+
+| **FORCE FRONTEND** | **PUISSANCE BACKEND** | **INFRA & OPS** |
+| :--- | :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
 </div>
 
 ---
 
-### 🔥 ACTIVITÉ & DOMINATION
+### 📊 Combat Statistics (Performance Metrics)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmanhdjj&theme=radical&hide_border=true&border_radius=30" height="195" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=radical&hide_border=true&hide_title=true" height="170" alt="Top Languages" />
-  <img src="https://github-readme-trophy.vercel.app/?username=ajmanhdjj&theme=radical&no-frame=true&column=3&margin-w=15&margin-h=15" height="170" alt="Trophies" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmanhdjj&theme=radical&hide_border=true" alt="Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📬 PRÊT À CONQUÉRIR ?
+### 📡 Connection Interface
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajmanhdj/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" /></a>
-  <a href="mailto:ajmanhdj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" /></a>
-  <a href="https://wa.me/2250102271940"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="38" /></a>
+  <a href="https://www.linkedin.com/in/ajmanhdj/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ajmanhdj@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/2250102271940"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajmanhdjj&color=00FF9F&style=for-the-badge&label=YEUX%20SUR%20MOI" alt="Profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=ajmanhdjj&color=00FF9F&style=flat-square&label=SYSTEM_ACCESS_COUNT" />
 </div>
