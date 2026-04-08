@@ -52,7 +52,7 @@
 
 | LinkedIn | Gmail | WhatsApp |
 | --- | --- | --- |
-| [![ajmanhdj](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fajmanhdj%2F&subtitle=@ajmanhdj&size=square)](https://www.linkedin.com/in/ajmanhdj/) | [![ajmanhdj@gmail.com](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ajmanhdj@gmail.com&size=square)](mailto:ajmanhdj@gmail.com) | [![+225 01 02 27 19 40](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=+225+01+02+27+19+40&size=square)](https://wa.me/2250102271940) |
+| [![ajmanhdj](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fajmanhdj%2F&subtitle=@ajmanhdj&size=wide)](https://www.linkedin.com/in/ajmanhdj/) | [![ajmanhdj@gmail.com](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ajmanhdj@gmail.com&size=wide)](mailto:ajmanhdj@gmail.com) | [![+225 01 02 27 19 40](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=+225+01+02+27+19+40&size=wide)](https://wa.me/2250102271940) |
 
 </div>
 
