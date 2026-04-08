@@ -47,8 +47,9 @@
 
 ---
 
+**`// CONTACT`**
+
 <div align="center">
-  <h2>// CONTACT</h2>
 
 | LinkedIn | Gmail | WhatsApp |
 | --- | --- | --- |
