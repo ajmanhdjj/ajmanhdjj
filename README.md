@@ -40,8 +40,12 @@
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&theme=prussian&show_icons=true" alt="ajmanhdjj" /></p>
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=prussian" 
+    alt="GitHub stats AjmanHadjiboudine"
+  />
+</p>
 
 <br/>
 
