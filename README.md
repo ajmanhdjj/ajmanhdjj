@@ -1,33 +1,52 @@
-### Ajman Hadjiboudine
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dw60YIVoqHglL2fPBm/giphy.gif" width="35"> Ajman Hadjiboudine
 
-Full Stack & Mobile Developer — Abidjan, CI
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42A5F5&width=435&lines=Full+Stack+%26+Mobile+Dev;Expert+Flutter+%26+Dart;Backend+Architect+(NestJS+/+PHP);Building+from+Abidjan+to+the+world" alt="Typing SVG" /></a>
+</p>
 
-Je bâtis des apps mobiles et des APIs robustes. Flutter pour le mobile, PHP/NestJS pour le back, Next.js pour le web.
-
----
-
-**Stack**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+Je conçois des solutions numériques haute performance. Spécialisé dans le développement d'applications mobiles fluides avec **Flutter** et d'architectures backend scalables sous **NestJS** et **PHP**.
 
 ---
 
-**Stats**
+### 🛠️ Technologies & Écosystème
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,nestjs,nextjs,postgres,mysql,docker,git,github,vscode,postman" />
+  </a>
+</p>
+
+---
+
+### 📊 Performance & Activité
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=transparent&hide_border=true&langs_count=5" height="150" />
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=transparent&hide_border=true&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=transparent&hide_border=true&title_color=42A5F5&text_color=ffffff" alt="Top Langs" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmanhdjj&theme=transparent&hide_border=true&stroke=42A5F5&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajmanhdj-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ajmanhdj/)
-[![Gmail](https://img.shields.io/badge/Gmail-ajmanhdj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajmanhdj@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B225_01_02_27_19_40-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2250102271940)
+### 🚀 Parlons de votre projet
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajmanhdj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ajmanhdj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/2250102271940">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
