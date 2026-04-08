@@ -38,6 +38,10 @@
 
 <img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=dark&hide_border=true&background=1a0f2e&ring=7c60d1&fire=9d7fea&currStreakLabel=9d7fea&sideLabels=6b5a8a&currStreakNum=f0f0f5&sideNums=f0f0f5&dates=6b5a8a&stroke=7c60d130" height="160"/>
 
+<br/>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&theme=prussian&show_icons=true" alt="ajmanhdjj" /></p>
+
 
 <br/>
 
