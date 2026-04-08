@@ -22,7 +22,6 @@
 - 💡 Passionné par le développement d’applications web et mobiles intuitives  
 - 🎯 Spécialisé en **PHP**, **Flutter** et **Dart**  
 - 🌱 Actuellement en train d’explorer **NestJS**, **Next.js** et **PostgreSQL**  
-- 🚀 Créateur de **[Kartalys](https://github.com/kartalys)**  
 - 💬 Toujours ouvert aux discussions techniques, collaborations ou nouveaux projets  
 
 ---
