@@ -49,7 +49,7 @@
 - **LinkedIn** : https://www.linkedin.com/in/ajmanhdj/
 - **Instagram** : @ajmanhdj_
 - **Email** : ajmanhdj@gmail.com
-- **WhatsApp** : +225 01 02 27 19 40
+- **WhatsApp** : </a href="https://wa.me/2250102271940">+225 01 02 27 19 40<a/>
 
 ---
 
