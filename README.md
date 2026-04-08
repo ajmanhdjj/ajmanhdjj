@@ -1,18 +1,12 @@
-<div align="center">
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003320,100:0a0a0a&height=300&section=header&text=Ajman%20Hadjiboudine&fontSize=65&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%2F%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js&descSize=18&descAlignY=58&descColor=ffffff)](https://github.com/ajmanhdjj)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=200&section=header&text=AJMAN%20HADJIBOUDINE&fontSize=42&fontColor=00ff9f&animation=fadeIn&fontAlignY=55&desc=FULL%20STACK%20%2F%2F%20MOBILE%20DEVELOPER&descSize=14&descAlignY=75&descColor=ffffff" width="100%"/>
+![Profile views](https://komarev.com/ghpvc/?username=ajmanhdjj&label=Profile%20views&color=00ff9f)
+![GitHub followers](https://img.shields.io/github/followers/ajmanhdjj?style=flat&logo=github&label=Followers&color=00ff9f)
+![GitHub stars](https://img.shields.io/github/stars/ajmanhdjj?style=flat&logo=github&label=Stars&color=00ff9f)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2000&pause=500&color=00FF9F&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BOK%5D+Flutter+%2F+Dart+——+LOADED;%5BOK%5D+PHP+%2F+NestJS+——+LOADED;%5BOK%5D+Next.js+%2F+PostgreSQL+——+LOADED;%5BOK%5D+Clean+Architecture+——+ACTIVE;%5BREADY%5D+Shipping+production-grade+software_" />
-
-<br/><br/>
-
-![](https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/LOCATION-ABIDJAN%2C%20CI-00ff9f?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/OPEN-TO%20WORK-00ff9f?style=flat-square&labelColor=0a0a0a)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF9F&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BOK%5D+Flutter+%2F+Dart+——+LOADED;%5BOK%5D+PHP+%2F+NestJS+——+LOADED;%5BOK%5D+Next.js+%2F+PostgreSQL+——+LOADED;%5BREADY%5D+Shipping+production-grade+software_" />
+</p>
 
 ---
 
@@ -53,20 +47,13 @@
 
 ---
 
-**`// CONTACT`**
-
 <div align="center">
+  <h2>// CONTACT</h2>
 
-[![LinkedIn](https://img.shields.io/badge/_%5B_LinkedIn_%5D_ajmanhdj-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff9f&labelColor=0D1117)](https://www.linkedin.com/in/ajmanhdj/)
-[![Gmail](https://img.shields.io/badge/_%5B_Mail_%5D_ajmanhdj@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff9f&labelColor=0D1117)](mailto:ajmanhdj@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/_%5B_WA_%5D_+225_01_02_27_19_40-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00ff9f&labelColor=0D1117)](https://wa.me/2250102271940)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=ajmanhdjj&color=00ff9f&style=flat-square&label=EYES+ON+ME)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
+| LinkedIn | Gmail | WhatsApp |
+| --- | --- | --- |
+| [![ajmanhdj](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fajmanhdj%2F&subtitle=@ajmanhdj&size=square)](https://www.linkedin.com/in/ajmanhdj/) | [![ajmanhdj@gmail.com](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ajmanhdj@gmail.com&size=square)](mailto:ajmanhdj@gmail.com) | [![+225 01 02 27 19 40](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=+225+01+02+27+19+40&size=square)](https://wa.me/2250102271940) |
 
 </div>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003320,100:0a0a0a&height=100&section=footer&animation=fadeIn)](https://github.com/ajmanhdjj)
