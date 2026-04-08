@@ -1,11 +1,11 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003320,100:0a0a0a&height=300&section=header&text=Ajman%20Hadjiboudine&fontSize=65&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%2F%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js&descSize=18&descAlignY=58&descColor=ffffff)](https://github.com/ajmanhdjj)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Ajman%20Hadjiboudine&fontSize=65&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%2F%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js&descSize=18&descAlignY=58&descColor=c9b8f0)](https://github.com/ajmanhdjj)
 
-![Profile views](https://komarev.com/ghpvc/?username=ajmanhdjj&label=Profile%20views&color=00ff9f)
-![GitHub followers](https://img.shields.io/github/followers/ajmanhdjj?style=flat&logo=github&label=Followers&color=00ff9f)
-![GitHub stars](https://img.shields.io/github/stars/ajmanhdjj?style=flat&logo=github&label=Stars&color=00ff9f)
+![Profile views](https://komarev.com/ghpvc/?username=ajmanhdjj&label=Profile%20views&color=7745bf)
+![GitHub followers](https://img.shields.io/github/followers/ajmanhdjj?style=flat&logo=github&label=Followers&color=7c60d1)
+![GitHub stars](https://img.shields.io/github/stars/ajmanhdjj?style=flat&logo=github&label=Stars&color=9d7fea)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF9F&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BOK%5D+Flutter+%2F+Dart+——+LOADED;%5BOK%5D+PHP+%2F+NestJS+——+LOADED;%5BOK%5D+Next.js+%2F+PostgreSQL+——+LOADED;%5BREADY%5D+Shipping+production-grade+software_" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=9D7FEA&center=true&vCenter=true&width=600&lines=%5BSYSTEM%5D+Booting+developer+profile...;%5BOK%5D+Flutter+%2F+Dart+——+LOADED;%5BOK%5D+PHP+%2F+NestJS+——+LOADED;%5BOK%5D+Next.js+%2F+PostgreSQL+——+LOADED;%5BREADY%5D+Shipping+production-grade+software_" />
 </p>
 
 ---
@@ -19,16 +19,16 @@
 
 **`// STACK`**
 
-![Flutter](https://img.shields.io/badge/Flutter-00ff9f?style=flat-square&logo=flutter&logoColor=0a0a0a)
-![Dart](https://img.shields.io/badge/Dart-00ff9f?style=flat-square&logo=dart&logoColor=0a0a0a)
-![PHP](https://img.shields.io/badge/PHP-00ff9f?style=flat-square&logo=php&logoColor=0a0a0a)
-![NestJS](https://img.shields.io/badge/NestJS-00ff9f?style=flat-square&logo=nestjs&logoColor=0a0a0a)
-![Next.js](https://img.shields.io/badge/Next.js-00ff9f?style=flat-square&logo=nextdotjs&logoColor=0a0a0a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00ff9f?style=flat-square&logo=postgresql&logoColor=0a0a0a)
-![MySQL](https://img.shields.io/badge/MySQL-00ff9f?style=flat-square&logo=mysql&logoColor=0a0a0a)
-![Docker](https://img.shields.io/badge/Docker-00ff9f?style=flat-square&logo=docker&logoColor=0a0a0a)
-![TypeScript](https://img.shields.io/badge/TypeScript-00ff9f?style=flat-square&logo=typescript&logoColor=0a0a0a)
-![Linux](https://img.shields.io/badge/Linux-00ff9f?style=flat-square&logo=linux&logoColor=0a0a0a)
+![Flutter](https://img.shields.io/badge/Flutter-7c60d1?style=flat-square&logo=flutter&logoColor=f0f0f5)
+![Dart](https://img.shields.io/badge/Dart-7c60d1?style=flat-square&logo=dart&logoColor=f0f0f5)
+![PHP](https://img.shields.io/badge/PHP-7c60d1?style=flat-square&logo=php&logoColor=f0f0f5)
+![NestJS](https://img.shields.io/badge/NestJS-7c60d1?style=flat-square&logo=nestjs&logoColor=f0f0f5)
+![Next.js](https://img.shields.io/badge/Next.js-2d1b4e?style=flat-square&logo=nextdotjs&logoColor=f0f0f5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c60d1?style=flat-square&logo=postgresql&logoColor=f0f0f5)
+![MySQL](https://img.shields.io/badge/MySQL-7c60d1?style=flat-square&logo=mysql&logoColor=f0f0f5)
+![Docker](https://img.shields.io/badge/Docker-7c60d1?style=flat-square&logo=docker&logoColor=f0f0f5)
+![TypeScript](https://img.shields.io/badge/TypeScript-7c60d1?style=flat-square&logo=typescript&logoColor=f0f0f5)
+![Linux](https://img.shields.io/badge/Linux-7c60d1?style=flat-square&logo=linux&logoColor=f0f0f5)
 
 ---
 
@@ -36,12 +36,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=dark&hide_border=true&background=0D1117&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=444444&currStreakNum=ffffff&sideNums=ffffff&dates=444444&stroke=00ff9f20" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff9f&text_color=ffffff&langs_count=5" height="160"/>
+<img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=dark&hide_border=true&background=1a0f2e&ring=7c60d1&fire=9d7fea&currStreakLabel=9d7fea&sideLabels=6b5a8a&currStreakNum=f0f0f5&sideNums=f0f0f5&dates=6b5a8a&stroke=7c60d130" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=dark&hide_border=true&bg_color=1a0f2e&title_color=9d7fea&text_color=f0f0f5&langs_count=5" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f20&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=1a0f2e&color=9d7fea&line=7c60d1&point=f0f0f5&area=true&area_color=7c60d130&hide_border=true" width="100%"/>
 
 </div>
 
@@ -56,4 +56,4 @@
 
 </div>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003320,100:0a0a0a&height=100&section=footer&animation=fadeIn)](https://github.com/ajmanhdjj)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=footer&animation=fadeIn)](https://github.com/ajmanhdjj)
