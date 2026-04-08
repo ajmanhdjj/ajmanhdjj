@@ -42,8 +42,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=prussian" 
-    alt="GitHub stats AjmanHadjiboudine"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=prussian&hide_border=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=prussian&hide_border=true"
+    height="165"
   />
 </p>
 
