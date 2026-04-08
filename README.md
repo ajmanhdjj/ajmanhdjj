@@ -101,6 +101,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=ajmanhdjj&color=ff2d55&style=flat-square&label=EYES+ON+ME)
 
 ```
-█ IF IT'S NOT OPTIMIZED, IT'S NOT DONE ```
+█ IF IT'S NOT OPTIMIZED, IT'S NOT DONE █
+```
 
 </div>
