@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/ajmanhdjj?style=flat&logo=github&label=Stars&color=9d7fea)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Architecting+Scalable+Systems;High-Performance+Mobile+Apps;Full-Stack+Dominance+(NestJS/Next.js);Clean+Architecture+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Architecting+Scalable+Systems;High-Performance+Mobile+Apps;Full-Stack+Dominance+(NestJS/Next.js);Clean+Architecture+Practitioner" alt="Typing SVG" />
 </p>
 
 ---
