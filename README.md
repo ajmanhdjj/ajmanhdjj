@@ -37,11 +37,11 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=dark&hide_border=true&background=1a0f2e&ring=7c60d1&fire=9d7fea&currStreakLabel=9d7fea&sideLabels=6b5a8a&currStreakNum=f0f0f5&sideNums=f0f0f5&dates=6b5a8a&stroke=7c60d130" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=dark&hide_border=true&bg_color=1a0f2e&title_color=9d7fea&text_color=f0f0f5&langs_count=5" height="160"/>
+
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=1a0f2e&color=9d7fea&line=7c60d1&point=f0f0f5&area=true&area_color=7c60d130&hide_border=true" width="65%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=1a0f2e&color=9d7fea&line=7c60d1&point=f0f0f5&area=true&area_color=7c60d130&hide_border=true" width="40%"/>
 
 </div>
 
