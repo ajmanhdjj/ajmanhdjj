@@ -37,19 +37,26 @@
 ### 📊 Mes Stats GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="190" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmanhdjj&theme=tokyonight&hide_border=true" height="190" alt="Streak" />
+  <!-- Stats principale avec cache busting + paramètres optimisés -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+       height="190" alt="GitHub Stats" />
+</div>
+
+### 🔥 Current Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmanhdjj&theme=tokyonight&hide_border=true" 
+       height="190" alt="Streak" />
 </div>
 
 ### 🏆 Mes Langages les Plus Utilisés
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=ajmanhdjj" 
+       alt="Top Languages" />
 </div>
 
 ### 🚀 Projets Épinglés
-
-<!-- Tes repos épinglés s'afficheront ici automatiquement -->
 
 ---
 
