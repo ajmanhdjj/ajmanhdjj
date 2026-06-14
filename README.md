@@ -1,62 +1,98 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Ajman%20Hadjiboudine&fontSize=65&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%2F%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20NestJS%20%E2%80%A2%20Next.js&descSize=18&descAlignY=58&descColor=c9b8f0)](https://github.com/ajmanhdjj)
+# 👋 Hi, I'm Ajman Hadjiboudine
 
-![Profile views](https://komarev.com/ghpvc/?username=ajmanhdjj&label=Profile%20views&color=7745bf)
-![GitHub followers](https://img.shields.io/github/followers/ajmanhdjj?style=flat&logo=github&label=Followers&color=7c60d1)
-![GitHub stars](https://img.shields.io/github/stars/ajmanhdjj?style=flat&logo=github&label=Stars&color=9d7fea)
+[![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:60A5FA,50:2563EB,100:1D4ED8\&height=260\&section=header\&text=Ajman%20Hadjiboudine\&fontSize=55\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Full%20Stack%20Developer%20•%20Flutter%20•%20NestJS%20•%20Next.js\&descSize=18\&descAlignY=58)](https://github.com/ajmanhdjj)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Architecting+Scalable+Systems;High-Performance+Mobile+Apps;Full-Stack+Dominance+(NestJS/Next.js);Clean+Architecture+Practitioner" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=ajmanhdjj&label=Profile%20Views&color=2563EB&style=flat" />
+  <img src="https://img.shields.io/github/followers/ajmanhdjj?style=flat&logo=github&label=Followers&color=2563EB" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Products;Flutter+Mobile+Developer;NestJS+%26+Next.js+Engineer;Clean+Architecture+Enthusiast;Performance+Focused+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-```
-> Si ce n'est pas optimisé, ce n'est pas fini.
-> Clean Architecture. Code maintenable. Zéro compromis.
-```
+## 🚀 About Me
+
+Full Stack Developer based in Côte d'Ivoire.
+
+I design and build scalable web and mobile applications with a strong focus on performance, maintainability, and user experience.
+
+### Areas of Focus
+
+* 📱 Mobile Development with Flutter
+* ⚙️ Backend Development with NestJS & PHP
+* 🌐 Modern Web Applications with Next.js
+* 🏗️ Clean Architecture & Scalable Systems
+* 🐳 Docker & Linux Infrastructure
+* 🗄️ PostgreSQL & MySQL Databases
 
 ---
 
-**`// STACK`**
+## 🛠 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-7c60d1?style=flat-square&logo=flutter&logoColor=f0f0f5)
-![Dart](https://img.shields.io/badge/Dart-7c60d1?style=flat-square&logo=dart&logoColor=f0f0f5)
-![PHP](https://img.shields.io/badge/PHP-7c60d1?style=flat-square&logo=php&logoColor=f0f0f5)
-![NestJS](https://img.shields.io/badge/NestJS-7c60d1?style=flat-square&logo=nestjs&logoColor=f0f0f5)
-![Next.js](https://img.shields.io/badge/Next.js-2d1b4e?style=flat-square&logo=nextdotjs&logoColor=f0f0f5)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7c60d1?style=flat-square&logo=postgresql&logoColor=f0f0f5)
-![MySQL](https://img.shields.io/badge/MySQL-7c60d1?style=flat-square&logo=mysql&logoColor=f0f0f5)
-![Docker](https://img.shields.io/badge/Docker-7c60d1?style=flat-square&logo=docker&logoColor=f0f0f5)
-![TypeScript](https://img.shields.io/badge/TypeScript-7c60d1?style=flat-square&logo=typescript&logoColor=f0f0f5)
-![Linux](https://img.shields.io/badge/Linux-7c60d1?style=flat-square&logo=linux&logoColor=f0f0f5)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,typescript,nestjs,nextjs,php,postgres,mysql,docker,linux,git,github,vscode" />
+</p>
 
 ---
 
-**`// PERFORMANCE`**
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=dark&hide_border=true&background=1a0f2e&ring=7c60d1&fire=9d7fea&currStreakLabel=9d7fea&sideLabels=6b5a8a&currStreakNum=f0f0f5&sideNums=f0f0f5&dates=6b5a8a&stroke=7c60d130" height="160"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&theme=transparent&hide_border=true"/>
 
-<br/>
-<br/>
+</p>
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=1a0f2e&color=9d7fea&line=7c60d1&point=f0f0f5&area=true&area_color=7c60d130&hide_border=true" width="40%"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajmanhdjj&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-**`// CONTACT`**
+## 📈 Activity Graph
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=ffffff&color=2563EB&line=60A5FA&point=2563EB&area=true&hide_border=true" width="95%"/>
+</p>
 
-| LinkedIn | Gmail | WhatsApp |
-| --- | --- | --- |
-| [![ajmanhdj](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fajmanhdj%2F&subtitle=@ajmanhdj&size=wide)](https://www.linkedin.com/in/ajmanhdj/) | [![ajmanhdj@gmail.com](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ajmanhdj@gmail.com&size=wide)](mailto:ajmanhdj@gmail.com) | [![+225 01 02 27 19 40](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=+225+01+02+27+19+40&size=wide)](https://wa.me/2250102271940) |
+---
 
-</div>
+## 🎯 Current Focus
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=100&section=footer&animation=fadeIn)](https://github.com/ajmanhdjj)
+* Building modern Flutter applications
+* Developing scalable APIs with NestJS
+* Creating performant Next.js web platforms
+* Improving software architecture and developer experience
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ajmanhdj">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ajmanhdj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/2250102271940">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable and scalable digital products with a focus on performance, maintainability and user experience.</i>
+</p>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:60A5FA,50:2563EB,100:1D4ED8\&height=100\&section=footer)](https://github.com/ajmanhdjj)
