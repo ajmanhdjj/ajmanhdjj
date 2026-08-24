@@ -246,25 +246,7 @@ const currentFocus = {
 
 ---
 
-## 07 / PRINCIPLES
-
-<div align="center">
-
-### `BUILD > TALK`
-
-### `SIMPLE > CLEVER`
-
-### `SHIP > PERFECT`
-
-### `SYSTEMS > PATCHES`
-
-### `QUALITY > HYPE`
-
-</div>
-
----
-
-## 08 / CONNECT
+## 07 / CONNECT
 
 <div align="center">
 
