@@ -212,19 +212,6 @@ const currentFocus = {
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&hide_border=true&bg_color=040A21&title_color=60A5FA&text_color=C9D8FF&icon_color=2A5BAF&ring_color=60A5FA&rank_icon=github"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&hide_border=true&bg_color=040A21&title_color=60A5FA&text_color=C9D8FF"
-/>
-
-<br />
-<br />
-
-<img
   width="75%"
   src="https://streak-stats.demolab.com?user=ajmanhdjj&hide_border=true&background=040A21&ring=2A5BAF&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D8FF&dates=6F86B5&currStreakNum=FFFFFF&sideNums=FFFFFF"
 />
