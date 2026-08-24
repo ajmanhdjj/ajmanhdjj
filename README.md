@@ -245,7 +245,7 @@ const currentFocus = {
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-AJMANHDJ-12316F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmanhdj)
 
-[![Email](https://img.shields.io/badge/EMAIL-AJMANHDJ%40GMAIL.COM-12316F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ajmanhdj.com)
+[![Email](https://img.shields.io/badge/EMAIL-ME%40AJMANHDJ.COM-12316F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ajmanhdj.com)
 
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTACT-12316F?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2250102271940)
 
