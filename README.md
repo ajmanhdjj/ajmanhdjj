@@ -1,26 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF2D2D" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:040A21,45:12316F,100:2A5BAF" />
 
+<br />
 <br />
 
 # AJMAN HADJIBOUDINE
 
 ### FULL STACK SOFTWARE ENGINEER
 
-`FLUTTER` · `NESTJS` · `NEXT.JS` · `TYPESCRIPT` · `PHP`
+`MOBILE` · `BACKEND` · `WEB` · `INFRASTRUCTURE`
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ajmanhdj.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://ajmanhdj.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmanhdj)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmanhdj@gmail.com)
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=BUILD.+SHIP.+SCALE.;Flutter+%2F+NestJS+%2F+Next.js;Engineering+products+built+to+last."
+  alt="Typing SVG"
+/>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ajmanhdjj&label=PROFILE+VIEWS&color=FF2D2D&style=flat-square" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-AJMANHDJ.COM-12316F?style=for-the-badge&logo=safari&logoColor=white)](https://ajmanhdj.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-12316F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmanhdj)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-12316F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmanhdj@gmail.com)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ajmanhdjj&label=PROFILE+VIEWS&color=2A5BAF&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ajmanhdjj?label=FOLLOWERS&style=flat-square&color=111111&logo=github" />
+<img src="https://img.shields.io/github/followers/ajmanhdjj?label=FOLLOWERS&style=flat-square&color=12316F&logo=github&logoColor=white" />
+
+<br />
+<br />
+
+<!-- CONTRIBUTION SNAKE -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ajmanhdjj/ajmanhdjj/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ajmanhdjj/ajmanhdjj/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ajmanhdjj/ajmanhdjj/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -28,30 +57,27 @@
 
 ---
 
-## 01 — ABOUT
+## 01 / ABOUT
 
 ```txt
-> whoami
-
-Ajman Hadjiboudine
-Full Stack Software Engineer
-Côte d'Ivoire
-
-I build fast, scalable and well-designed digital products.
-From mobile applications to APIs, web platforms and infrastructure.
+NAME        Ajman Hadjiboudine
+ROLE        Full Stack Software Engineer
+LOCATION    Côte d'Ivoire
+FOCUS       Mobile · Backend · Web · Infrastructure
+STATUS      Building.
 ```
 
-I focus on building products that are **clean on the surface** and **solid underneath**.
+I engineer digital products that are designed to **perform**, **scale** and **last**.
 
-No unnecessary complexity.  
-No bloated architecture.  
-No fragile code.
+From mobile applications to backend systems and modern web platforms, I care about what happens on both sides of the product:
 
-**Build. Ship. Improve.**
+**what the user sees — and what keeps everything running underneath.**
+
+> Clean architecture. Strong foundations. Zero unnecessary complexity.
 
 ---
 
-## 02 — WHAT I BUILD
+## 02 / ENGINEERING
 
 <table>
 <tr>
@@ -59,18 +85,31 @@ No fragile code.
 
 ### MOBILE
 
-Production-ready mobile applications with a strong focus on performance, architecture and user experience.
+Fast, polished and production-ready applications.
+
+**Core stack**
 
 `Flutter` `Dart` `Riverpod` `Firebase`
 
+**Focus**
+
+Performance · UX · Architecture · Maintainability
+
 </td>
+
 <td width="50%" valign="top">
 
 ### BACKEND
 
-Secure and scalable APIs designed for real-world applications and long-term maintainability.
+APIs and systems built for real-world products.
 
-`NestJS` `Node.js` `PHP` `REST API`
+**Core stack**
+
+`NestJS` `TypeScript` `PHP` `REST`
+
+**Focus**
+
+Security · Scalability · Reliability · Clean Architecture
 
 </td>
 </tr>
@@ -80,18 +119,31 @@ Secure and scalable APIs designed for real-world applications and long-term main
 
 ### WEB
 
-Modern web platforms with fast interfaces, responsive layouts and clean frontend architecture.
+Modern interfaces and high-performance platforms.
+
+**Core stack**
 
 `Next.js` `React` `TypeScript` `JavaScript`
 
+**Focus**
+
+Performance · Responsive UI · Product Experience
+
 </td>
+
 <td width="50%" valign="top">
 
 ### INFRASTRUCTURE
 
-Deployment, databases and infrastructure built to keep products reliable and available.
+Infrastructure that keeps products alive.
 
-`Docker` `Linux` `PostgreSQL` `MySQL`
+**Core stack**
+
+`Docker` `Linux` `Nginx` `GitHub Actions`
+
+**Focus**
+
+Deployment · CI/CD · Reliability · Automation
 
 </td>
 </tr>
@@ -99,25 +151,31 @@ Deployment, databases and infrastructure built to keep products reliable and ava
 
 ---
 
-## 03 — TECH ARSENAL
+## 03 / STACK
 
 <div align="center">
 
-### CORE
+### LANGUAGES & FRAMEWORKS
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,nestjs,nextjs,react,php&theme=dark" />
 
 <br />
 <br />
 
-### DATA & INFRA
+### DATA & INFRASTRUCTURE
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,nginx,firebase&theme=dark" />
 
 <br />
 <br />
 
-### WORKFLOW
+### TOOLING
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma&theme=dark" />
 
@@ -125,79 +183,74 @@ Deployment, databases and infrastructure built to keep products reliable and ava
 
 ---
 
-## 04 — CURRENT MISSION
+## 04 / CURRENT FOCUS
 
-```ts
-const ajman = {
-  role: "Full Stack Software Engineer",
+```typescript
+const currentFocus = {
+  mobile: "Production-grade Flutter applications",
 
-  building: [
-    "Mobile applications",
-    "Scalable APIs",
-    "Modern web platforms",
-    "Production infrastructure",
-  ],
+  backend: "Scalable APIs with NestJS",
 
-  stack: {
-    mobile: ["Flutter", "Dart"],
-    backend: ["NestJS", "TypeScript", "PHP"],
-    frontend: ["Next.js", "React"],
-    database: ["PostgreSQL", "MySQL"],
-    infrastructure: ["Docker", "Linux"],
-  },
+  web: "Fast and modern Next.js platforms",
 
-  principles: [
-    "Clean architecture",
+  infrastructure: "Reliable deployment and automation",
+
+  standards: [
+    "Clean Architecture",
     "Performance",
     "Scalability",
-    "Great user experience",
+    "Maintainability",
+    "User Experience",
   ],
-
-  status: "shipping 🚀",
 };
 ```
 
 ---
 
-## 05 — GITHUB INTELLIGENCE
+## 05 / GITHUB
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF2D2D&icon_color=FF2D2D&text_color=8B949E&ring_color=FF2D2D&rank_icon=github" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=ajmanhdjj&show_icons=true&hide_border=true&bg_color=040A21&title_color=60A5FA&text_color=C9D8FF&icon_color=2A5BAF&ring_color=60A5FA&rank_icon=github"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&hide_border=true&bg_color=00000000&title_color=FF2D2D&text_color=8B949E" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmanhdjj&layout=compact&hide_border=true&bg_color=040A21&title_color=60A5FA&text_color=C9D8FF"
+/>
 
 <br />
+<br />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ajmanhdjj&hide_border=true&background=00000000&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## 06 — CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ajmanhdjj/ajmanhdjj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=ajmanhdjj&hide_border=true&background=040A21&ring=2A5BAF&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D8FF&dates=6F86B5&currStreakNum=FFFFFF&sideNums=FFFFFF"
+/>
 
 </div>
 
 ---
 
-## 07 — ACTIVITY
+## 06 / ACTIVITY
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=00000000&color=8B949E&line=FF2D2D&point=FFFFFF&area=true&area_color=FF2D2D&hide_border=true" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ajmanhdjj&bg_color=040A21&color=C9D8FF&line=2A5BAF&point=60A5FA&area=true&area_color=12316F&hide_border=true"
+/>
 
 </div>
 
 ---
 
-## 08 — ENGINEERING PHILOSOPHY
+## 07 / PRINCIPLES
 
 <div align="center">
+
+### `BUILD > TALK`
 
 ### `SIMPLE > CLEVER`
 
@@ -211,29 +264,24 @@ const ajman = {
 
 ---
 
-## 09 — CONNECT
+## 08 / CONNECT
 
 <div align="center">
 
-**Have a project, an idea or just want to talk tech?**
+### Let's build something that matters.
 
 <br />
 
-[![Website](https://img.shields.io/badge/WEBSITE-ajmanhdj.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://ajmanhdj.com)
+[![Website](https://img.shields.io/badge/WEBSITE-AJMANHDJ.COM-12316F?style=for-the-badge&logo=safari&logoColor=white)](https://ajmanhdj.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ajmanhdj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmanhdj)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-AJMANHDJ-12316F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmanhdj)
 
-[![Gmail](https://img.shields.io/badge/EMAIL-ajmanhdj%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmanhdj@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-AJMANHDJ%40GMAIL.COM-12316F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmanhdj@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2250102271940)
-
-</div>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONTACT-12316F?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2250102271940)
 
 <br />
-
----
-
-<div align="center">
+<br />
 
 ```txt
 BUILD THINGS THAT MATTER.
@@ -242,10 +290,12 @@ SHIP THINGS THAT LAST.
 
 <br />
 
-**© Ajman Hadjiboudine**
+**AJMAN HADJIBOUDINE**
+
+`FULL STACK SOFTWARE ENGINEER`
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=FF2D2D" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:2A5BAF,55:12316F,100:040A21" />
 
 </div>
